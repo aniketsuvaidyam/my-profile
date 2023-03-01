@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/abhirock74)
+![Profile views](https://gpvc.arturio.dev/aniketsuvaidyam)
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Aniket+Kumar!;Learning+Full+Stack+Development...👨🏻‍💻;" style="width: 100%;"/>
 
 # 💻 Tech Skills:
